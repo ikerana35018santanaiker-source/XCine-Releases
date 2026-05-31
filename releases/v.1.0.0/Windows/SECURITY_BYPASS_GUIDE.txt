@@ -1,0 +1,9 @@
+QUICK SECURITY BYPASS GUIDE FOR RBX Infinity
+
+If Windows shows "Windows protected your PC":
+1. Click "More info"
+2. Click "Run anyway" 
+3. Application will start
+
+This is normal for development builds.
+See README.txt for detailed instructions.
